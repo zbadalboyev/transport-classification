@@ -1,3 +1,4 @@
+import fastai
 from fastai.vision.all import *
 import platform
 import pathlib
